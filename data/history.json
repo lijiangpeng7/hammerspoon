@@ -1,0 +1,18 @@
+[
+  {
+    "subText" : "ffmpeg -f concat -safe 0 -i all.txt -c copy -y all.mp4",
+    "text" : "ffmpeg -f concat -safe 0 -i all.txt -c copy -y all.mp4"
+  },
+  {
+    "subText" : "ffmpeg -i input.mp4 output.gif",
+    "text" : "ffmpeg -i input.mp4 output.gif"
+  },
+  {
+    "subText" : "清除chrome浏览器缓存，需要重启浏览器",
+    "text" : "chrome:\/\/net-internals\/#dns"
+  },
+  {
+    "subText" : "清除mac系统dns缓存",
+    "text" : "ipconfig \/flushdns"
+  }
+]
